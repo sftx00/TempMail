@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\Programs\visualstudio\repos\tempmail\TempMail\ConsoleApplication1\ConsoleApplication1.cpp(86,17): warning C4101: choice: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\Programs\visualstudio\repos\tempmail\TempMail\x64\Debug\ConsoleApplication1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
